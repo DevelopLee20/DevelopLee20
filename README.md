@@ -11,15 +11,22 @@
 
 ## 🛠️ Tech Stack
 
-| 기술 | 활용 기간  |
-|------|------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 5년 |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | 5년 |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | 2년 |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | 2년 |
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) | 2년 |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) | 1년 |
-| ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) | 3년 |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-292929?style=flat&logo=openCV&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ## 📌 활동
 
@@ -44,11 +51,17 @@
 
 ## 🧩 개인 활동
 
-| 프로젝트명 | 내용 | 역할 | 링크 |
-|------------|------|------|------|
-| Baek-ac | 백준과 솔브닥 문제 정리 | 알고리즘 정리 및 구현 | [GitHub](https://github.com/DevelopLee20/Baek-ac) |
-| DiePpi_bot | 디스코드 스터디 채널용 디스코드 봇 죽어삐 | 파이썬 Discord 봇 개발 | [GitHub](https://github.com/DevelopLee20/DiePpi_bot) |
-| Markdown_Template | 마크다운 템플릿 모음 | 마크다운 템플릿 정리 | [GitHub](https://github.com/DevelopLee20/Markdown_Template) |
-| Kernel-Java | 커널아카데미 부트캠프 실습 자바 코드 저장 | Java 실습 코드 정리 | [GitHub](https://github.com/DevelopLee20/Kernel-Java) |
-| memory-page-backend | 졸업생을 위한 온라인 롤링페이퍼 백엔드 | FastAPI 백엔드 및 서버 개발 | [GitHub](https://github.com/memory-page/memory-page-backend) |
-| 2021_SinJin | 머신러닝 기반 선수 성장 예측 | 머신러닝을 통한 모델 학습 | [GitHub](https://github.com/DevelopLee20/2021_SinJin) |
+| 태그 | 프로젝트명 | 내용 | 역할 | 링크 |
+|------|------------|------|------|------|
+| 알고리즘 | Baek ac | 백준과 솔브닥 문제 정리 | 알고리즘 정리 및 구현 | [GitHub](https://github.com/DevelopLee20/Baek-ac) |
+| 디스코드 봇 | DiePpi bot | 디스코드 스터디 채널용 디스코드 봇 죽어삐 | 파이썬 Discord 봇 개발 | [GitHub](https://github.com/DevelopLee20/DiePpi_bot) |
+| 마크다운 | Markdown Template | 마크다운 템플릿 모음 | 마크다운 템플릿 정리 | [GitHub](https://github.com/DevelopLee20/Markdown_Template) |
+| 백엔드 | memory-page-backend | 졸업생을 위한 온라인 롤링페이퍼 백엔드 | FastAPI 백엔드 및 서버 개발 | [GitHub](https://github.com/memory-page/memory-page-backend) |
+| 머신러닝 | 2021_SinJin | 머신러닝 기반 선수 성장 예측 | 머신러닝을 통한 모델 학습 | [GitHub](https://github.com/DevelopLee20/2021_SinJin) |
+| 라즈베리파이 | Rasberri PI | 라즈베리파이 우분투 서버 설정 | OS 설정 | [Tistory](https://leeingyu.tistory.com/120) |
+| 라즈베리파이 | Rasberri PI | 로컬 데이터베이스를 원격 데이터베이스로 확장하기 | 데이터베이스 확장 | [Tistory](https://leeingyu.tistory.com/130) |
+| 라즈베리파이 | Rasberri PI | 라즈베리파이 DB 설정 | DB 설정 | [Tistory](https://leeingyu.tistory.com/126) |
+| 머신러닝 | ML Project | RandomForest 기반 2022 MSI 분석 | 머신러닝 모델 구축 | [Tistory](https://leeingyu.tistory.com/18) |
+| 딥러닝 | Yolo v5 | Yolo V5 커스텀 데이터 학습시키기 | Yolo 커스텀 데이터 학습 | [Tistory](https://leeingyu.tistory.com/74) |
+| CI/CD | Github Action | Github Action 활용하기 | Github Action 사용법 학습 | [Tistory](https://leeingyu.tistory.com/98) |
+| CUDA | CUDA Server | 딥러닝 서버의 CUDA 환경 설정 | CUDA 환경 설정 | [Tistory](https://leeingyu.tistory.com/65) |
