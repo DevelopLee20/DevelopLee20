@@ -58,9 +58,9 @@
 | 마크다운 | Markdown Template | 마크다운 템플릿 모음 | 마크다운 템플릿 정리 | [GitHub](https://github.com/DevelopLee20/Markdown_Template) |
 | 백엔드 | memory-page-backend | 졸업생을 위한 온라인 롤링페이퍼 백엔드 | FastAPI 백엔드 및 서버 개발 | [GitHub](https://github.com/memory-page/memory-page-backend) |
 | 머신러닝 | 2021_SinJin | 머신러닝 기반 선수 성장 예측 | 머신러닝을 통한 모델 학습 | [GitHub](https://github.com/DevelopLee20/2021_SinJin) |
-| 라즈베리파이 | Rasberri PI | 라즈베리파이 우분투 서버 설정 | OS 설정 | [Tistory](https://leeingyu.tistory.com/120) |
-| 라즈베리파이 | Rasberri PI | 로컬 데이터베이스를 원격 데이터베이스로 확장하기 | 데이터베이스 확장 | [Tistory](https://leeingyu.tistory.com/130) |
-| 라즈베리파이 | Rasberri PI | 라즈베리파이 DB 설정 | DB 설정 | [Tistory](https://leeingyu.tistory.com/126) |
+| 라즈베리파이 | Raspberry Pi | 라즈베리파이 우분투 서버 설정 | OS 설정 | [Tistory](https://leeingyu.tistory.com/120) |
+| 라즈베리파이 | Raspberry Pi | 로컬 데이터베이스를 원격 데이터베이스로 확장하기 | 데이터베이스 확장 | [Tistory](https://leeingyu.tistory.com/130) |
+| 라즈베리파이 | Raspberry Pi | 라즈베리파이 DB 설정 | DB 설정 | [Tistory](https://leeingyu.tistory.com/126) |
 | 머신러닝 | ML Project | RandomForest 기반 2022 MSI 분석 | 머신러닝 모델 구축 | [Tistory](https://leeingyu.tistory.com/18) |
 | 딥러닝 | Yolo v5 | Yolo V5 커스텀 데이터 학습시키기 | Yolo 커스텀 데이터 학습 | [Tistory](https://leeingyu.tistory.com/74) |
 | CI/CD | Github Action | Github Action 활용하기 | Github Action 사용법 학습 | [Tistory](https://leeingyu.tistory.com/98) |
