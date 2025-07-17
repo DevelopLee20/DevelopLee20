@@ -3,13 +3,13 @@
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevelopLee20)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=DevelopLee20)
 
-## 💻 About Me
+## 💻 저는
 
 - Python 및 Java 백엔드 개발자입니다.
 - 알고리즘, 머신러닝, 서버 운영 및 보안에 관심이 많습니다.
 - 팀워크를 중시하며, 서비스의 안전한 운영과 확장에 기여하는 개발자가 되고자 합니다.
 
-## 🛠️ Tech Stack
+## 🛠️ 기술 스택
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
